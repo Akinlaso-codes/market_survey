@@ -1,2 +1,2 @@
 # market_survey
-This project is design to visualize identified potential customers
+This project is designed to visualize identified potential customers
